@@ -2605,7 +2605,7 @@ option{
 
 .ChromeControl{
     align-items: center;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     bottom: 0;
     display: flex;
     left: 0;
